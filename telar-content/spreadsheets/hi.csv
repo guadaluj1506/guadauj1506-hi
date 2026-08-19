@@ -1,0 +1,4 @@
+step,object,x,y,zoom,page,question,answer,alt_text,layer1_button,layer1_content,layer2_button,layer2_content,clip_start,clip_end,loop
+paso,objeto,x,y,zoom,pagina,pregunta,respuesta,texto_alt,boton1,contenido1,boton2,contenido2,inicio_clip,fin_clip,bucle
+1,poma0708,0.4924571358982479,0.49645695425167624,1.1063565547169238,,who does these animals represent?,"the priest, the royal consultant, the itinerant Spaniard, the ecomendero, the notary, and the native lord.",,,,,,,,
+2,poma0708,0.5015834496689063,0.3966613184077818,2.7229959919839684,,,,,,,,,,,
